@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
     ```sh
-    git clone https://github.com/yourusername/youtube-to-spotify.git
+    git clone https://github.com/klhawker/youtube-to-spotify.git
     cd youtube-to-spotify
     ```
 
@@ -40,14 +40,14 @@ Before you begin, ensure you have met the following requirements:
 1. Activate your virtual environment:
 
     ```sh
-    source your_virtualenv/bin/activate  # macOS/Linux
-    your_virtualenv\Scripts\activate      # Windows
+    source venv/bin/activate  # macOS/Linux
+    venv\Scripts\activate      # Windows
     ```
 
 2. Run the script:
 
     ```sh
-    python main.py
+    python run.py
     ```
 
 3. Follow the prompts to enter your YouTube playlist URL and select or create a Spotify playlist.
@@ -58,13 +58,9 @@ Before you begin, ensure you have met the following requirements:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
 
-If you want to contact the maintainer, you can reach out at `your_email@example.com`.
+If you want to contact the maintainer, you can reach out at `kai.lanoe@gmail.com`.
 
 ## Acknowledgments
 
